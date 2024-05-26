@@ -158,7 +158,7 @@ export default defineConfig({
               text: '学习-黑', 
               items: [
                 { text: '基础', link: '/数据库/MySQL/学习-黑/基础' },
-                // { text: '进阶', link: '/数据库/MySQL/学习-黑/进阶' },
+                { text: '进阶', link: '/数据库/MySQL/学习-黑/进阶' },
               ]
             },
           ]
