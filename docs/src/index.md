@@ -27,6 +27,3 @@ features:
 
 
 
-typora激活破解1.7.6最新2023-12永久教程
-
-https://www.bilibili.com/read/cv28330213/?jump_opus=1
