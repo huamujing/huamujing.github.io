@@ -224,9 +224,9 @@ maven配置阿里云镜像
 </project>
 ```
 
-![image-20221204184006523](.\img\pom.xml.png)
+`![image-20221204184006523](.\img\pom.xml.png)`
 
-![image-20221204184633376](.\img\pom.xml2.png)
+`![image-20221204184633376](.\img\pom.xml2.png)`
 
 
 
