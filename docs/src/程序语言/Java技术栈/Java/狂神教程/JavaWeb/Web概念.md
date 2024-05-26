@@ -22,7 +22,7 @@
 
 `![image-20221203222527822](C:\Users\86186\AppData\Roaming\Typora\typora-user-images\image-20221203222527822.png)`
 
-启动成功后，默认在 http://localhost:8080/ 访问测试
+启动成功后，默认在 `http://localhost:8080/` 访问测试
 
 
 
@@ -76,11 +76,11 @@
         - web.xml   // 网站的配置文件
 ```
 
-| 路径                                  | 说明                       |
-| ------------------------------------- | -------------------------- |
-| http://localhost:8080/                | 访问 webapps/ROOT 下的页面 |
-| http://localhost:8080/demo/           | 访问自定义页面             |
-| http://localhost:8080/demo/index.html | 访问自定义页面             |
+| 路径                                    | 说明                       |
+| --------------------------------------- | -------------------------- |
+| `http://localhost:8080/`                | 访问 webapps/ROOT 下的页面 |
+| `http://localhost:8080/demo/`           | 访问自定义页面             |
+| `http://localhost:8080/demo/index.html` | 访问自定义页面             |
 
 
 
