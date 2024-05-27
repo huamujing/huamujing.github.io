@@ -128,6 +128,7 @@ export default defineConfig({
                 { text: '文档笔记', link: '/系统操作/脚本/bash/文档笔记' },
                 { text: '补充知识', link: '/系统操作/脚本/bash/补充知识' },
                 { text: '示例', link: '/系统操作/脚本/bash/示例' },
+                { text: '实例', link: '/系统操作/脚本/bash/实例' },
               ]
             },
           ]
