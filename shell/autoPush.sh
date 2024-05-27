@@ -1,5 +1,7 @@
 #!/bin/bash
- random_number=$RANDOM
+random_number=$RANDOM
+
+cd ..
 
 git add .
 git commit -m ${random_number}
