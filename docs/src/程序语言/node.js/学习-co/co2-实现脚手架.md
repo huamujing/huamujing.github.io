@@ -566,7 +566,7 @@ module.exports = {
 
 <span style="backGround: #efe0b9">lib\templates\vue-component.ejs</span>
 
-```vue
+```html
 <template>
   <div class="<%= data.lowerName %>">
     <h1>{{ msg }}</h1>

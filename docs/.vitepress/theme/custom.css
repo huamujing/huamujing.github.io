@@ -1,0 +1,25 @@
+:root {
+/* --vp-code-block-bg: #161618; */
+}
+
+.outline-title {
+    display: none;
+}
+
+.vp-doc h2 {
+    border-top: none;
+    padding-top: 0;
+    border-bottom: 1px solid var(--vp-c-divider);
+    padding-bottom: 6px;
+    margin: 36px 0 0;
+}
+.vp-doc h3 {
+/* margin: 24px 0 10px; */
+margin: 6px 0 10px;
+}
+.vp-doc h4 {
+    margin-top: 4px;
+}
+.VPSidebarItem.level-0 {
+    padding-bottom: 10px !important;
+}
