@@ -182,6 +182,7 @@ export default defineConfig({
       '/娱乐/': [
         { text: '1', link: '/娱乐/1' },
         { text: '待处理', link: '/娱乐/待处理' },
+        { text: 'music', link: '/娱乐/music' },
       ],
     },
 
