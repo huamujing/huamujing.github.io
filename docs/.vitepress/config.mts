@@ -184,6 +184,7 @@ export default defineConfig({
         { text: '待处理', link: '/娱乐/待处理' },
         { text: 'music', link: '/娱乐/music' },
         { text: '梗', link: '/娱乐/梗' },
+        { text: '体操舞蹈', link: '/娱乐/体操舞蹈' },
       ],
     },
 
