@@ -33,6 +33,7 @@ export default defineConfig({
               items: [
                 { text: '实践', link: '/程序语言/node.js/实践/实践' },
                 { text: '本地oss上传', link: '/程序语言/node.js/实践/本地oss上传' },
+                { text: 'excel转json', link: '/程序语言/node.js/实践/excel转json' },
               ]
             },
             {
