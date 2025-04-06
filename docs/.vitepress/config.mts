@@ -19,7 +19,7 @@ export default defineConfig({
       { text: '数据库', link: '/数据库/表相关/表结构' },
       { text: '系统操作', link: '/系统操作/脚本/bash/文档笔记' },
       { text: '工具使用', link: '/工具使用/Postman/index' },
-      { text: '娱乐', link: '/娱乐/1' },
+      // { text: '娱乐', link: '/娱乐/1' },
     ],
 
     sidebar: {
@@ -182,7 +182,6 @@ export default defineConfig({
       ],
       '/娱乐/': [
         { text: '1', link: '/娱乐/1' },
-        { text: '待处理', link: '/娱乐/待处理' },
         { text: 'music', link: '/娱乐/music' },
         { text: '梗', link: '/娱乐/梗' },
         { text: '体操舞蹈', link: '/娱乐/体操舞蹈' },

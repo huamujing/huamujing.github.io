@@ -3,30 +3,33 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Spring Loach"
+  text: "后端文档"
+  tagline: 醉里挑灯看剑，梦回吹角连营
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: SQL语句
+      link: /数据库/MySQL/SQL语句
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 前端技术
+      link: https://springloach.github.io/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 编程语言
+    details: node.js、java两种语言及相关框架
+  - title: 数据库
+    details: 表结构、MongoDB、MySQL
+  - title: 系统操作
+    details: bash脚本语法及例子、系统相关知识
 ---
 
 
 
+<br />
+<br />
+<br />
 
-
+#### markdown表格转化js对象
 ```javascript
 const markdownTable = `
 | name | job  | sex  |
